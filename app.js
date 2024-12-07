@@ -77,7 +77,7 @@ function checkwin() {
 }
 
 function gameDraw(){
-    h2.innerText = `Drow`
+    h2.innerText = `Draw`
 }
 
 reBtn.addEventListener('click', reset)
